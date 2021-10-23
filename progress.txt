@@ -1,0 +1,16 @@
+10/19
+1. Build a line chatbot account
+2. get channel secret and channel access token (in convenience I used long-lived, I will change to Channel access token v2.1 after this project done.)
+3. use django to creat project
+__init__.py - 用來告訴Python，potrip是一個套件(Package)。
+asgi.py - 全名為Asynchronous Server Gateway Interface(非同步伺服器閘道介面)，是Django3.0新增加的檔案，用來提供非同步的功能。
+settings.py - Django專案的設定檔。
+urls.py - 定義Django專案中，各個應用程式(APP)的網址。
+wsgi.py - 全名為Web Server Gateway Interface(網站伺服器閘道介面)，提供Django網站和伺服器間的標準介面。
+manage.py - 用來管理整個Django專案，像是啟動本地端伺服器、連接資料庫及建立應用程式(APP)等。
+django-admin startproject mylinebot .  #建立Django專案
+ 
+python manage.py startapp foodlinebot  #建立Django應用程式
+ 
+python manage.py migrate  #執行資料遷移(Migration)
+4. Deploy to Heroku and linebot can send a message that same as it received
