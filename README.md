@@ -2,7 +2,7 @@
 ## Line Chatbot QR code
 ![image](https://github.com/WeiWeiCheng123/LineChatBot/blob/main/image/%E5%A5%BD%E5%8F%8BQR_code.jpg)
 
-## Introduce
+## Introduction
 This is a Line chatbot and its function is using web scraper to get stock's news and using Line  Messaging API to deliver stock's news.
 
 ## Demo
@@ -13,3 +13,7 @@ This is a Line chatbot and its function is using web scraper to get stock's news
 
 Real picture
 ![image](https://github.com/WeiWeiCheng123/LineChatBot/blob/main/image/demo.jpg)
+
+## Author
+* 鄭維新 WeiHsin Cheng
+* Contacts : wei4105@gmail.com
