@@ -3,7 +3,7 @@
 ![image](https://github.com/WeiWeiCheng123/LineChatBot/blob/main/image/%E5%A5%BD%E5%8F%8BQR_code.jpg)
 
 ## Introduce
-This is a Line chatbot and its function is to show a stock's news.
+This is a Line chatbot and its function is using web scraper to get stock's news and using Line  Messaging API to deliver stock's news.
 
 ## Demo
 1. User input a stock number.
