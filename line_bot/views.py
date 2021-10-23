@@ -10,8 +10,8 @@ from linebot.models import MessageEvent, TextMessage, TextSendMessage, TemplateS
 
 from .scraper import Scrape
 
-line_bot_api = LineBotApi('aUDAN6kht26+7QFf7ErvmRpxmSE90o9Fibc9mdW+4D1/Ze5a2qbWmNMgpar1aAc6eT7seAu3o6O9fKAgJ77J36otL6k+qWWlTzRn6mvw+/Rgci3w0jdOalVKkqDJtb1KrrmCrGkgyzfTKxBiCQRS5AdB04t89/1O/w1cDnyilFU=')
-parser = WebhookParser('14a3dd48481e6f2beb2396d76f1ce08c')
+line_bot_api = LineBotApi('key')
+parser = WebhookParser('key')
 
 
 @csrf_exempt
