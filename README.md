@@ -7,7 +7,7 @@ This is a Line chatbot and its function is using web scraper to get stock's news
 
 ## Demo
 1. User input a stock number.
-2. Determine the number is a stock number or not.
+2. Determine the number is a stock number or not. (e.g. 2330)
 3. If true, then output the stock's news.
 4. If not, then output "查無此股票代號"
 
