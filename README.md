@@ -12,7 +12,7 @@ This is a Line chatbot and its function is using web scraper to get stock's news
 4. If not, then output "查無此股票代號"
 
 Real picture
-![image](https://github.com/WeiWeiCheng123/LineChatBot/blob/main/image/demo.jpg)
+![image](https://github.com/WeiWeiCheng123/LineChatBot/blob/main/image/demo2.jpg)
 
 ## Author
 * 鄭維新 WeiHsin Cheng
