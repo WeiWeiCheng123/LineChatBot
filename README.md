@@ -1,5 +1,5 @@
-# LineChatbot
-## Line Chatbot QR code
+# LineRobot
+## Line Robot QRcode
 ![image](https://github.com/WeiWeiCheng123/LineChatBot/blob/main/image/%E5%A5%BD%E5%8F%8BQR_code.jpg)
 
 ## Introduction
